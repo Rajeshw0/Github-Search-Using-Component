@@ -1,8 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# lockfile
-package-lock.json
-.git
 # dependencies
 /node_modules
 /.pnp
